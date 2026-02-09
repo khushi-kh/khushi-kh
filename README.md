@@ -1,28 +1,49 @@
-# Hi, I am Khushi
-Email me at **kharekhushi203@gmail.com**
+<h1 align="center">Khushi Khare</h1>
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="github contributions snake animation">
-</div>
+<p align="center">
+  <i>Software Developer • Building thoughtful software</i>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushi-kh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kkhushiiik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kharekhushi203@gmail.com) 
+<p align="center">
+  <a href="mailto:kharekhushi203@gmail.com">✉️ Email</a> · 
+  <a href="https://linkedin.com/in/khushi-kh">💼 LinkedIn</a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khushi-kh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khushi-kh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-kh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushi-kh&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=khushi-kh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Turning+ideas+into+reliable+products.;Designing+clean+UIs+and+solid+APIs.;Obsessed+with+code+that+ages+well." />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khushi-kh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 Who I Am
+
+I’m a developer who enjoys working across the stack — from shaping clean user interfaces to designing backend APIs that don’t fall apart in production.  
+I care about **clarity in code**, **structure in systems**, and **experience for users**.
+
+> I’m less interested in “hacks” and more interested in building things that still make sense six months later.
+
+---
+
+## 🧰 Tech I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,js,react,html,css,dotnet,nodejs,express,flask,django,postgres,mysql,mongodb,git" />
+</p>
+
+---
+
+## 🚀 What I’m Building
+
+- Full-stack web apps with authentication & role-based access  
+- API-driven systems with clean service layers  
+- UI that feels calm, intentional, and usable
+
+---
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi-kh&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khushi-kh&hide_border=true&theme=transparent" height="150"/>
+</p>
+
