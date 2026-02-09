@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Turning+ideas+into+reliable+products.;Designing+clean+UIs+and+solid+APIs.;Obsessed+with+code+that+ages+well." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=lines=Code+with+clarity.;Design+with+intention.;Build+things+that+age+well." />
 </p>
 
 ---
