@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kharekhushi203@gmail.com">✉️ Email</a> · 
-  <a href="https://linkedin.com/in/khushi-kh">💼 LinkedIn</a>
+  ✉️ <a href="mailto:kharekhushi203@gmail.com">Email</a> · 
+  💼 <a href="https://linkedin.com/in/khushi-kh">LinkedIn</a>
 </p>
 
 <p align="center">
